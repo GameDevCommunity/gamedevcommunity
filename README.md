@@ -1,6 +1,6 @@
 ![Header](https://github.com/GameDevCommunity/gamedevcommunity/blob/main/assets/emblem.png)
 
-### Welcome to the game development communit
+### Welcome to the game development community
 
 #### Our projects
 To see our projects, you must be a member of the community. You can get acquainted with ready-made projects on our [YouTube channel](https://www.youtube.com/channel/UCB9QYH6lwgmargyyhMsFShA).
