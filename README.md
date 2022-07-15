@@ -1,8 +1,8 @@
 ![Header](https://github.com/GameDevCommunity/gamedevcommunity/blob/main/assets/emblem.png)
 
-###Welcome to the game development communit
+### Welcome to the game development communit
 
-####Our projects
+#### Our projects
 To see our projects, you must be a member of the community. You can get acquainted with ready-made projects on our [YouTube channel](https://www.youtube.com/channel/UCB9QYH6lwgmargyyhMsFShA).
 
 ![Flutter](https://img.shields.io/badge-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
@@ -12,7 +12,7 @@ To see our projects, you must be a member of the community. You can get acquaint
 ![.Net](https://img.shields.io/badge-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![JavaScript](https://img.shields.io/badge-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-####Follow me
+#### Follow me
 
 To join us, you must complete a test task. This is necessary to determine the level of your knowledge, and also so that you understand whether you want to do this.
 
